@@ -1,4 +1,4 @@
 # cbtp
 
-Scripts used in the study _Predicting Who Benefits from Cognitive-Behavioural Therapy for Psychosis Using Routine Data: A Machine Learning Study_
+Scripts used in the study _Predicting psychological recovery after cognitive-behavioural therapy for psychosis in a naturalist sample_
 
